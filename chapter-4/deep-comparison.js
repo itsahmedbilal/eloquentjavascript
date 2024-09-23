@@ -18,8 +18,8 @@ function deepEqual(object1, object2) {
     ) {
       return false;
     }
-    return true;
   }
+  return true;
 }
 
 let obj = { here: { is: "an" }, object: 2 };
